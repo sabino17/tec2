@@ -1,0 +1,53 @@
+body {
+    background: #fffffff8;
+}
+
+#tec2 {
+    width: 50%;
+    height: 70%;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+}
+
+h4 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+#missão {
+    font-size: 20px;
+}
+
+#missão2 {
+    font-size: 40px;
+}
+
+em strong {
+    color: #000000;
+}
+
+.itens {
+    font-style: italic;
+}
+
+#videotec2 {
+    height: 400pt;
+    width: 100%;
+}
+
+ul {
+    text-align: center;
+}
